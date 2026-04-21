@@ -20,15 +20,7 @@
 
 
 
-![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge\&logo=python)
-
-![Jupyter](https://img.shields.io/badge/-Jupyter\_Notebook-FFF?style=for-the-badge\&logo=Jupyter)
-
-![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge\&logo=Clickhouse)
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFF?style=for-the-badge\&logo=PostgreSQL)
-
-![SQL](https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge\&logo=SQL)
+![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge\&logo=python)	![Jupyter](https://img.shields.io/badge/-Jupyter\_Notebook-FFF?style=for-the-badge\&logo=Jupyter)	![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge\&logo=Clickhouse)	![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFF?style=for-the-badge\&logo=PostgreSQL)	![SQL](https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge\&logo=SQL)
 
 ![Redash](https://img.shields.io/badge/-Redash-E44D26?style=for-the-badge\&logo=Redash)
 
