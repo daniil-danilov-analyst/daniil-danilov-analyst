@@ -20,31 +20,31 @@
 
 
 
-!\[Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge\&logo=python)
+![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge\&logo=python)
 
-!\[Jupyter](https://img.shields.io/badge/-Jupyter\_Notebook-FFF?style=for-the-badge\&logo=Jupyter)
+![Jupyter](https://img.shields.io/badge/-Jupyter\_Notebook-FFF?style=for-the-badge\&logo=Jupyter)
 
-!\[Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge\&logo=Clickhouse)
+![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge\&logo=Clickhouse)
 
-!\[PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFF?style=for-the-badge\&logo=PostgreSQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFF?style=for-the-badge\&logo=PostgreSQL)
 
-!\[SQL](https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge\&logo=SQL)
+![SQL](https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge\&logo=SQL)
 
-!\[Redash](https://img.shields.io/badge/-Redash-E44D26?style=for-the-badge\&logo=Redash)
+![Redash](https://img.shields.io/badge/-Redash-E44D26?style=for-the-badge\&logo=Redash)
 
-!\[EXCEL](https://img.shields.io/badge/-EXCEL-FF?style=for-the-badge\&logo=EXCEL)
+![EXCEL](https://img.shields.io/badge/-EXCEL-FF?style=for-the-badge\&logo=EXCEL)
 
-!\[Google Sheets](https://img.shields.io/badge/-Google\_Sheets-FFF?style=for-the-badge\&logo=GoogleSheets)
+![Google Sheets](https://img.shields.io/badge/-Google\_Sheets-FFF?style=for-the-badge\&logo=GoogleSheets)
 
-!\[GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge\&logo=GIT)
+![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge\&logo=GIT)
 
-!\[API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge\&logo=API)
+![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge\&logo=API)
 
-!\[Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge\&logo=AIRFLOW)
+![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge\&logo=AIRFLOW)
 
-!\[DataLens](https://img.shields.io/badge/-DataLens-007BFF?style=for-the-badge\&logo=DataLens\&logoColor=white)
+![DataLens](https://img.shields.io/badge/-DataLens-007BFF?style=for-the-badge\&logo=DataLens\&logoColor=white)
 
-!\[Requests](https://img.shields.io/badge/-Requests-3090C7?style=for-the-badge\&logo=python\&logoColor=white)
+![Requests](https://img.shields.io/badge/-Requests-3090C7?style=for-the-badge\&logo=python\&logoColor=white)
 
 
 
