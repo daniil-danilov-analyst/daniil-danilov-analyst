@@ -8,10 +8,10 @@
 |-|-|-|
 |Проект 1  A/B-тестирование изменения стоимости премиум-подписки ([**github**](https://github.com/daniil-danilov-analyst/for_project_1))|Анализ влияния повышения цены на премиум-подписку (через новые платёжные системы) на ARPU, конверсию, ARPPU и retention. Выявлено снижение доли платящих пользователей и ARPU при росте выручки с платящего клиента.|Python, Pandas, NumPy, SciPy (Mann-Whitney U, chi-square, Kruskal-Wallis), Statsmodels (логистическая регрессия), Matplotlib, Seaborn, Jupyter Notebook, бутстрап (BCa)|
 |Проект 2 Анализ пролонгаций договоров ([**github**](https://github.com/daniil-danilov-analyst/for_rpoject_2))|Расчёт коэффициентов пролонгации (К1 и К2) для аккаунт-менеджеров на основе данных о завершении проектов и финансовых отгрузках. Построение помесячной и годовой динамики, оценка эффективности каждого менеджера, формирование аналитического отчёта.|Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook|
-|Проект 3 RFM-анализ  ([**github**](https://github.com/vickiticy/for_project_3))|Сегментация пользователей, проведение RFM-анализа|pandas|
-|Проект 4 E-commerce  ([**github**](https://github.com/vickiticy/for_project_4))|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
-|Проекты SQL  ([**github**](https://github.com/vickiticy/for_SQL))|Решение задач по группировке, агрегатным функциям, объединению таблиц, преобразованию типов данных, подзапросам, представлениям, созданию таблиц, ETL(Python+SQL), оконным функциям, визуализации в Redash|SQL,ClickHouse,PostgreSQL,  Redash,pandas,pandahouse,  numpy,seaborn,matplotlib|
-
+|Проект 3 Интерактивный дашборд в Yandex DataLens (Открыть дашборд](https://datalens.yandex/wnkhzyvnzc4gg))|О- Общие показатели (продажи, индекс удовлетворённости, отзывы с фото/видео)
+- Категориальный анализ (покупки, рейтинг по категориям)
+- Бренды с индексом <80% и динамика
+- Топ худших товаров (оценки, наличие медиа, причины негатива).|SQL,DataLens|
 
 
 <hr>
